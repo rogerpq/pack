@@ -7,7 +7,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/JMTHON-AR/jmthon",
+  "repository": "https://github.com/rogerpq/Repthon_userbot",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
@@ -66,7 +66,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لا تغيـرها ابدا",
-      "value": "jmthonar",
+      "value": "Rep",
       "required": false
     }
   },
